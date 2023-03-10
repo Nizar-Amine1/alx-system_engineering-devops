@@ -1,1 +1,1 @@
-0x01. Shell_permissions
+Shell_permissions
